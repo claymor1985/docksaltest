@@ -19,6 +19,13 @@
         "drupal/core-composer-scaffold": "^9",
         "drupal/core-project-message": "^9",
         "drupal/core-recommended": "^9",
+        "drupal/devel": "^5.1",
+        "drupal/entity_browser": "^2.9",
+        "drupal/inline_entity_form": "^1.0@RC",
+        "drupal/layout_builder_ipe": "^1.0@alpha",
+        "drupal/paragraph_blocks": "^3.1",
+        "drupal/paragraphs": "^1.15",
+        "drupal/widget_engine": "^1.4",
         "drush/drush": "^10.2"
     },
     "conflict": {

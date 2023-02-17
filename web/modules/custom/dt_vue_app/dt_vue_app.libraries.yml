@@ -1,0 +1,8 @@
+# Custom module library for general purposes.
+dt_vue_app:
+  js:
+    dt-vue-app/dist/dt_vue_app.umd.min.js: { minified: true }
+  dependencies:
+    - core/drupalSettings
+    - dt_system/vue
+    - dt_system/axios

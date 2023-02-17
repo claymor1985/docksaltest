@@ -21,5 +21,3 @@
 
 # Ignore .env files as they are personal
 /.env
-
-/web/index.php
